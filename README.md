@@ -1,6 +1,6 @@
-# Привет, меня зовут Евгений!
+# 🖐 Привет, меня зовут Евгений!
 
-### :man_technologist: Обо мне:
+### 💼 Обо мне:
 
 <!--
 Я начинающий java-разработчик...
@@ -8,11 +8,10 @@
 - Почему выбрал это направление / язык программирования.
 - Какие уже достижения.
 - Чем занят сейчас.
-- Чем планирую заниматься.
+- Чем планирую заниматься.-->
 
-В свободное время я решаю задачи на GeeksforGeeks и читаю технические статьи.-->
-
-- Как связаться со мной:
+<!-- - ⚡ В свободное время я решаю задачи на Codewars и читаю технические статьи. -->
+- 📬 Как связаться со мной:
   [![Telegram Badge](https://img.shields.io/badge/-Evgenii_Kosachev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Evgenii_Kosachev)
   [![Static Badge](https://img.shields.io/badge/mail-%23005FF9?logo=maildotru&logoColor=%23FF9C00)](mailto:evgenii_kosachev@mail.ru)
 
@@ -28,11 +27,13 @@
 
 ---
 
-### Технологии:
+### 🛠 Инструменты и технологии:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -42,26 +43,17 @@
 
 ---
 
-### 🛠 Инструменты:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
-</div>
+### 👨‍🎓 Пройденные курсы:
 
 ---
 
-### Пройденные курсы:
-
----
-
-### Codewars:
+### ⚔️ Codewars:
 
 ![codewars](https://www.codewars.com/users/Evgenii%20Kosachev/badges/large)
 
 ---
 
-### ⚙️ GitHub статистика:
+### 🔥 GitHub статистика:
 
 [![График активности Ashutosh на github](https://github-readme-activity-graph.vercel.app/graph?username=Evgenii-Kosachev&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
